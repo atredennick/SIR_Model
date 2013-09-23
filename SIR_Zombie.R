@@ -1,5 +1,5 @@
 ##Simple SIR model of disease transmission##
-##this example is a 'zombie apacolypse' for an undergrad example##
+##this example is a 'zombie apocalypse' for an undergrad example##
 
 sir <- function(So, Io, Ro,
                 beta, r, time){
